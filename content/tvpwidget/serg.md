@@ -10,6 +10,6 @@
     "type": "carousel",
     "title": "serg",
     "name": "serg",
-    "channelId": "117407921",
+    "channelId": "117407922",
     "layout": "bootstrap"
 }
