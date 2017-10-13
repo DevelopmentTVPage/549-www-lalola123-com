@@ -11,5 +11,6 @@
     "title": "serg",
     "name": "serg",
     "channelId": "117407922",
-    "layout": "bootstrap"
+    "layout": "bootstrap",
+    "autoplay": true
 }
